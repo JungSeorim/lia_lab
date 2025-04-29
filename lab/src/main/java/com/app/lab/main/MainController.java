@@ -18,5 +18,8 @@ public class MainController {
 		//test
 		String str = "문자열1";
 		model.addAttribute("str", str);
+
+		//local-mgnt 브랜치
+		String test = "";
 	}
 }
