@@ -21,5 +21,7 @@ public class MainController {
 
 		//local-mgnt 브랜치
 		String test = "";
+		//local-portal 브랜치
+		String test2 = "";
 	}
 }
